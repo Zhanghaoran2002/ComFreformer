@@ -1,0 +1,7 @@
+panda==1.5.3
+numpy==1.21.0
+matplotlib==3.7.0
+torch==2.0.1
+scikit_learn==1.2.1
+thop==0.1.1
+tqdm==4.59.0
