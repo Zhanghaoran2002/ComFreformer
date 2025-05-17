@@ -1,2 +1,2 @@
 # ComFreformer
-A Complex-valued Frequency Transformer
+A Complex-valued Frequency Transformer for multivariate time series forecasting
